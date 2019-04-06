@@ -16,7 +16,7 @@ to operate the Virtual Machine directly, rather than having most operations scri
 
 #### macOS, Debian, Ubuntu
   ```
-  wget https//raw.githubusercontent.com/mazaclub/easygitianbuilder/v0.1.0/Install_EasyGitian.sh
+  wget https://raw.githubusercontent.com/MotoAcidic/EasyGitianBuilder/master/Install_EasyGitian.sh
   chmod +x Install_EasyGitian.sh
   ./Install_EasyGitian.sh
   source ~/EasyGitian.env
